@@ -1,0 +1,14 @@
+layout_spectrum: 0.5936682114843279
+typography_spectrum: 0.6981826103292406
+color:
+  brandStrength: 0.3695033078547567
+  lightness: 0.12521688337437809
+  saturation: 0.7032860778272152
+  rhythmicContrast: 0.12935702758841217
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: Strophos
