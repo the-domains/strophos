@@ -1,4 +1,3 @@
-layout_spectrum: 0.5936682114843279
 typography_spectrum: 0.6981826103292406
 color:
   brandStrength: 0.3695033078547567
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.5936682114843279
 name: Strophos
 title: Hi Maurine
+description: <3
